@@ -1,7 +1,9 @@
 {
     "environment": "development",
     "isArmAuthEnabled": true,
-    "subscriptionId": "< subscription ID >",
-    "resourceGroupName": "< resource group name >",
-    "serviceName": "< service name >"
+    "subscriptionId": "dc3611f6-0d52-4a1d-9ef3-7e9c779ced62",
+    "resourceGroupName": "danlep0925",
+    "serviceName": "danlep1009d",
+    "clientId": "7571551b-602e-4ee1-81d8-c6b9efa27687",
+    "tenantId": "888d76fa-54b2-4ced-8ee5-aac1585adee7"
 }
